@@ -35,6 +35,13 @@
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/nickel-bot">
+                    <img src="https://avatars.githubusercontent.com/u/221085890?v=4" width="100;" alt="nickel-bot"/>
+                    <br />
+                    <sub><b>nickel-bot</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/jiangyin14">
                     <img src="https://avatars.githubusercontent.com/u/106649516?v=4" width="100;" alt="jiangyin14"/>
                     <br />
@@ -42,17 +49,17 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/unDefFtr">
-                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="unDefFtr"/>
-                    <br />
-                    <sub><b>unDefFtr</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Cartethyia-0612">
                     <img src="https://avatars.githubusercontent.com/u/209760655?v=4" width="100;" alt="Cartethyia-0612"/>
                     <br />
                     <sub><b>Cartethyia-0612</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/unDefFtr">
+                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="unDefFtr"/>
+                    <br />
+                    <sub><b>unDefFtr</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -69,6 +76,8 @@
                     <sub><b>Wei Wu</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/littlekan233">
                     <img src="https://avatars.githubusercontent.com/u/75866787?v=4" width="100;" alt="littlekan233"/>
@@ -76,8 +85,13 @@
                     <sub><b>小阚LittleKan</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
+            <td align="center">
+                <a href="https://github.com/garyxxxx2021">
+                    <img src="https://avatars.githubusercontent.com/u/106256371?v=4" width="100;" alt="garyxxxx2021"/>
+                    <br />
+                    <sub><b>Garyyang</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/SDFAWTFGE">
                     <img src="https://avatars.githubusercontent.com/u/116573936?v=4" width="100;" alt="SDFAWTFGE"/>
@@ -106,6 +120,8 @@
                     <sub><b>Enzo Wu</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/HelloWRC">
                     <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
@@ -120,8 +136,6 @@
                     <sub><b>hexianglong</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/TuanZiGit">
                     <img src="https://avatars.githubusercontent.com/u/46892455?v=4" width="100;" alt="TuanZiGit"/>
@@ -150,6 +164,8 @@
                     <sub><b>LHGS-github</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/tsxc-github">
                     <img src="https://avatars.githubusercontent.com/u/94750616?v=4" width="100;" alt="tsxc-github"/>
@@ -164,13 +180,11 @@
                     <sub><b>流焰xwx</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
-                <a href="https://github.com/LyRin-owo">
-                    <img src="https://avatars.githubusercontent.com/u/141834038?v=4" width="100;" alt="LyRin-owo"/>
+                <a href="https://github.com/stellalyRin">
+                    <img src="https://avatars.githubusercontent.com/u/141834038?v=4" width="100;" alt="stellalyRin"/>
                     <br />
-                    <sub><b>lyrin://2025</b></sub>
+                    <sub><b>stellalyRin \ 星澜音</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -194,6 +208,22 @@
                     <sub><b>Wenxuan Shen</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/waraku-chise">
+                    <img src="https://avatars.githubusercontent.com/u/218337059?v=4" width="100;" alt="waraku-chise"/>
+                    <br />
+                    <sub><b>chise-kawaii</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/lrsgzs">
+                    <img src="https://avatars.githubusercontent.com/u/99574908?v=4" width="100;" alt="lrsgzs"/>
+                    <br />
+                    <sub><b>lrs2187</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/quiet-star-gazing">
                     <img src="https://avatars.githubusercontent.com/u/109467643?v=4" width="100;" alt="quiet-star-gazing"/>
@@ -208,8 +238,6 @@
                     <sub><b>wjj</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/DryIce-cc">
                     <img src="https://avatars.githubusercontent.com/u/165131008?v=4" width="100;" alt="DryIce-cc"/>
